@@ -1,5 +1,4 @@
 # 8-Puzzle-Solver
-# 8-Puzzle Solver Using A* Algorithm
 
 ## Description
 This project implements an **8-Puzzle Solver** using the **A* (A-Star) Algorithm** in Python. The A* algorithm efficiently finds the optimal solution by utilizing the **Manhattan Distance** heuristic.
